@@ -1,4 +1,4 @@
-# pyber
+# Pyber
 ## Summary
 * A homework assignment for UC Berkeley's Data Analytics Bootcamp
 * Analysis studies data from a hypothetical ridesharing application (Pyber) using Pandas and MatPlotLib
